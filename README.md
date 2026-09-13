@@ -8,6 +8,10 @@ Doel: simpele game opstellen met genoeg functionaliteit om onderzoek te doen naa
 -Stats logger functionaliteit om verschillende statistieken van spelers bij te houden
 
 ### TODO:
--Game polishen 
+-Obstacles toevoegen
+
+-Player dodge functie implementeren
+
+-Score tracker implementeren
 
 -Python script schrijven dat gelogde stats visualiseert
